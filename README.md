@@ -23,7 +23,7 @@ Each file is named using the **problem title** (lowercase, hyphen-separated) and
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 12     |
+| Easy       | 13     |
 | Medium     | 17     |
 | Hard       | 0      |
 
