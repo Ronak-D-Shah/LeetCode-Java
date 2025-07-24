@@ -23,7 +23,7 @@
  * Space Complexity: O(1), constant space
  */
 
-public class Solution {
+class Solution {
     public class ListNode {
         int val;
         ListNode next;
