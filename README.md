@@ -6,9 +6,9 @@ Welcome! This repository contains my personal solutions to [LeetCode](https://le
 
 ## 📁 Structure
 
-leetcode-solutions/
-├── easy/ → Solutions to easy problems
-├── medium/ → Solutions to medium problems
+leetcode-solutions/  
+├── easy/ → Solutions to easy problems  
+├── medium/ → Solutions to medium problems  
 └── hard/ → Solutions to hard problems
 
 Each file is named using the **problem title** (lowercase, hyphen-separated) and has:
